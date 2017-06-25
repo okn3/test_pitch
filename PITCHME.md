@@ -63,7 +63,7 @@ Githubアカウント(GitLab, Bitbucket)
 
 # let's Hands on
 * 基本スライドの作成
-* 各種機能
+* 機能紹介
 
 ---
 
