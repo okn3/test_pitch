@@ -1,12 +1,28 @@
-# hello_1
+# GitPitch
+10presentation
+okuno ryo
 
-## test
+---
+
+# GitPitchとは？
+---
+
+一言で言うと
+markdownで簡単にスライド作成出来る
+githubのツール
+
+---
+
 * 1
 * 2
 * 3
 ---
 
-2222222222
+# memo
+
+* 作成デモ
+* メリット
+* 
 
 +++
 
