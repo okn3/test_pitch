@@ -8,8 +8,8 @@ okuno ryo
 ---
 
 一言で言うと
-markdownで簡単にスライド作成出来る
-githubのツール
+
+markdownで簡単にスライド作成出来るツール
 
 ---
 
