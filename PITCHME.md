@@ -48,7 +48,7 @@ Githubアカウント(GitLab, Bitbucket)
 
 # できること
 
-![functions](gitpitch_sample.png)
++++?image=gitpitch_sample.png
 
 ---
 
