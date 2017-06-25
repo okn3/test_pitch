@@ -102,18 +102,13 @@ https://gitpitch.com/**user**/**repo**
 ---
 参考サイト
 * https://gitpitch.com/
-
+* GitPitch - Gitリポジトリを使ったスライドプラットフォーム(http://www.moongift.jp/2016/09/gitpitch-gitリポジトリを使ったスライドプラットフォー/)
+* GitHubだけで超高機能なスライド資料が作れる「GitPitch」の使い方を徹底解説！(http://paiza.hatenablog.com/entry/2017/06/22/GitHubだけで超高機能なスライド資料が作れる「GitPitch」の)
++++
 
 # Finish
 
 快適な10preライフに  
 GitPitch
 
-+++
 
-# 流れ
-
-１． 問題提起
-２． ツール紹介
-３． スライド作成デモ
-４． メリット・デメリット
