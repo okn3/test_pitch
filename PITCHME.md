@@ -59,7 +59,7 @@ Githubアカウント(GitLab, Bitbucket)
 
 ## https://gitpitch.com/user/repo
 
-
++++?image=ref_pitch.png&size=auto
 +++?gist=c9885780be0da4897fd3a5bca6bc213f
 
 コードの貼り付け
