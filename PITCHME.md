@@ -52,7 +52,23 @@ Githubアカウント(GitLab, Bitbucket)
 * 2 画像、グラフ作成
 * 3 
 
-+++?gist:7dc0ad1007076bf8f89e1b1919b184eb
+---
+
+# 作成手順
+1. PITCHME.mｄを作成
+2. リポジトリを作成
+3. push
+
++++
+
+#閲覧方法
+
+https://gitpitch.com/<user>/<repo>
+
+
++++?gist:c9885780be0da4897fd3a5bca6bc213f
+
+コードの貼り付け
 
 +++
 
