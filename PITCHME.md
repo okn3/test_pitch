@@ -44,10 +44,6 @@ Githubアカウント(GitLab, Bitbucket)
 
 # 何ができる？
 
-+++
-
-# できること
-
 +++?image=gitpitch_sample.png
 
 ---
@@ -102,7 +98,6 @@ https://gitpitch.com/**user**/**repo**
 
 * スライド作成スピードは大幅に向上
 * 結局10pre準備の所要時間は変わらない
-
 
 ---
 参考サイト
