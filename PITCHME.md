@@ -100,10 +100,12 @@ Githubアカウント(GitLab, Bitbucket)
 * 結局10pre準備の所要時間は変わらない
 
 ---
+
 参考サイト
-* https://gitpitch.com/
-* GitPitch - Gitリポジトリを使ったスライドプラットフォーム(http://www.moongift.jp/2016/09/gitpitch-gitリポジトリを使ったスライドプラットフォー/)
-* GitHubだけで超高機能なスライド資料が作れる「GitPitch」の使い方を徹底解説！(http://paiza.hatenablog.com/entry/2017/06/22/GitHubだけで超高機能なスライド資料が作れる「GitPitch」の)
+* Gitpitch公式サイト  https://gitpitch.com/
+* GitPitch - Gitリポジトリを使ったスライドプラットフォーム  http://www.moongift.jp/2016/09/gitpitch-gitリポジトリを使ったスライドプラットフォー/
+* GitHubだけで超高機能なスライド資料が作れる「GitPitch」の使い方を徹底解説！  http://paiza.hatenablog.com/entry/2017/06/22/GitHubだけで超高機能なスライド資料が作れる「GitPitch」の  
+
 +++
 
 # Finish
