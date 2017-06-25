@@ -48,7 +48,7 @@ Githubアカウント(GitLab, Bitbucket)
 
 # できること
 
-![functions](https://github.com/okn3/test_pitch/blob/master/gitpitch_sample.png)
+![functions](gitpitch_sample.png)
 
 ---
 
