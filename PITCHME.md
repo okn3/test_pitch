@@ -113,4 +113,4 @@ Githubアカウント(GitLab, Bitbucket)
 快適な10preライフに  
 GitPitch
 
-
+---?code=test.py&lang=python
