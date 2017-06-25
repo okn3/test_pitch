@@ -57,7 +57,7 @@ Githubアカウント(GitLab, Bitbucket)
 
 閲覧方法
 
-# https://gitpitch.com/**user**/**repo**
+## https://gitpitch.com/user/repo
 
 
 +++?gist=c9885780be0da4897fd3a5bca6bc213f
