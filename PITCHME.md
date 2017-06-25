@@ -48,9 +48,7 @@ Githubアカウント(GitLab, Bitbucket)
 
 # できること
 
-* 1 コードの貼り付け
-* 2 画像、グラフ作成
-* 3 
+![functions](https://github.com/okn3/test_pitch/blob/master/gitpitch_sample.png)
 
 ---
 
@@ -63,7 +61,7 @@ Githubアカウント(GitLab, Bitbucket)
 
 #閲覧方法
 
-https://gitpitch.com/<user>/<repo>
+https://gitpitch.com/**user**/**repo**
 
 
 +++?gist:c9885780be0da4897fd3a5bca6bc213f
